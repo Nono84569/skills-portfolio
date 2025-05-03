@@ -35,16 +35,5 @@ Showcase the technical and operational competencies I have developed through tra
 
 • Troubleshooting & Diagnostics: problem-solving methodology, (packet analysis with Wireshark)
 
-
-## 📂 Repository Structure
-
-| Folder            | Content description                                       |
-|-------------------|-----------------------------------------------------------|
-| `scripts/`         | PowerShell and Bash scripts for automation               |
-| `configurations/`  | Configuration files (Samba, DHCP, DNS, etc.)             |
-| `lab_network/`     | Network diagrams and VM configuration notes              |
-| `projects/`        | Hands-on labs and infrastructure projects                |
-| `docs/`            | Technical notes and procedures                           |
-
 ## 🧪 Upcoming
 - **Secure Digital Solutions Developer** training (planned after current degree – equivalent to Bachelor's level)
